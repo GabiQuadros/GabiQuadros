@@ -1,10 +1,12 @@
 [](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
 
-<h3>Sobre mim </h3>
+<h3>Olá, sou a Nair Gabriela Quadros </h3>
 
 - 🤔 Explorando novas tecnologias e soluções de software.
+- 🎓 Formada em Design de Interiores <a href="https://www.liberato.com.br/">Fundação Liberato</a> <br/>.
 - 🎓 Estudando **Full Stack Web Developer** no <a href="https://academy.growdev.com.br/">Growdev</a>.
-- 💼 Em busca de oportunidades
+- 😎 Gosto de assistir séries, futebol, APAIXONADA pelo Grêmio, faço parte do Consulado Feminino de Novo Hamburgo onde provemos algumas ações sociais entre outras coisas.
+- 💼 Trabalhei como Auxiliar Administrativo durante 4 anos e agora estou migrando para área da tecnologia e em busca de oportunidades
 - 🌱 Aprendendo mais sobre **Programação** .
 
 Introdução ao desenvolvimento de sistemas, Banco de dados relacional e não relacional, Programação Front e Back-end, Introdução a arquitetura de software, Engenharia e Qualidade de software.
@@ -40,5 +42,7 @@ Projeto real, construção de um projeto de software com a equipe de engenharia 
 
 <h3>  🌎     Onde me encontrar: </h3>
 
-[![ Selo do Gmail ](https://img.shields.io/badge/-ngabiquadros@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ngabiquadros@gmail.com)](mailto:ngabiquadros@gmail.com)
-[![ GitHub GabiQuadros ](https://img.shields.io/github/followers/GabiQuadros?label=follow&style=social)](https://github.com/GabiQuadros)
+<a href="https://www.linkedin.com/in/gabriela-quadros/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+<a href="mailto:jessicadelfischer@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
