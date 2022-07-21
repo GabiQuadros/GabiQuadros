@@ -40,6 +40,6 @@ Projeto real, construção de um projeto de software com a equipe de engenharia 
 
 <h3>  🌎     Onde me encontrar: </h3>
 
-[![ Linkedin: Gabriela Quadros](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDINhttps://www.linkedin.com/in/gabriela-quadros/)](https://www.linkedin.com/in/gabriela-quadros/)
-[![ Selo do Gmail ](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ngabiquadros@gmail.com)](mailto:ngabiquadros@gmail.com)
+[![ Linkedin: Gabriela Quadros](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriela-quadros/)](https://www.linkedin.com/in/gabriela-quadros/)
+[![ Selo do Gmail ](https://img.shields.io/badge/-ngabiquadros@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ngabiquadros@gmail.com)](mailto:ngabiquadros@gmail.com)
 [![ GitHub SEU NOME ](https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
