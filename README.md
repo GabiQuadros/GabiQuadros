@@ -2,7 +2,7 @@
 
 <h3>Olá, sou a Nair Gabriela Quadros </h3>
 
-- 🤔 aprendendo sobre Programação.
+- 🤔 Aprendendo sobre Programação.
 - 🎓 Formada em Design de Interiores <a href="https://www.liberato.com.br/">Fundação Liberato</a>. <br/>
 - 🎓 Estudando **Full Stack Web Developer** no <a href="https://academy.growdev.com.br/">Growdev</a>.
 - 😎 Gosto de assistir séries, futebol, APAIXONADA pelo Grêmio, faço parte do Consulado Feminino de Novo Hamburgo onde promovemos algumas ações sociais entre outras coisas.
