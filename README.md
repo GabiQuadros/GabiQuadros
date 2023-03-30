@@ -5,6 +5,7 @@
 - 🤔 Aprendendo sobre Programação.
 - 🎓 Formada em Design de Interiores <a href="https://www.liberato.com.br/">Fundação Liberato</a>. <br/>
 - 🎓 Estudando **Full Stack Web Developer** no <a href="https://academy.growdev.com.br/">Growdev</a>.
+- 🎓 Estudando **Ciência da Computação** na <a href="https://estacio.br/cursos/graduacao/ciencias-da-computacao">Estácio</a>.
 - 😎 Gosto de assistir séries, futebol, APAIXONADA pelo Grêmio, faço parte do Consulado Feminino de Novo Hamburgo onde promovemos algumas ações sociais entre outras coisas.
 - 💼 Trabalhei como Auxiliar Administrativo durante 4 anos e agora estou migrando para área da tecnologia e em busca de oportunidades
 - 🌱 Aprendendo mais sobre **Programação** .
