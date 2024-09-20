@@ -10,9 +10,9 @@ Muito prazer, me chamo
 
 - 🎓 Formada em Design de Interiores <a href="https://www.liberato.com.br/">Fundação Liberato</a>. <br/>
 - 🎓 Formada **Full Stack Web Developer** no <a href="https://academy.growdev.com.br/">Growdev</a>.
-- 🎓 Estudando **Ciência da Computação** na <a href="https://estacio.br/cursos/graduacao/ciencias-da-computacao">Estácio</a>.
+- 🎓 Estudando **Ciência da Computação** na <a href="https://estacio.br/cursos/graduacao/ciencias-da-computacao">Estácio</a> e Analise de Dados na <a href="https://academy.growdev.com.br/">Growdev</a>.
 - 😎 Gosto de assistir séries, futebol, APAIXONADA pelo Grêmio.
-- 💼 Trabalhei como Auxiliar Administrativo durante 4 anos e agora estou migrando para área da tecnologia e em busca de oportunidades
+- 💼 Assistente de Suporte se TI
 - 🌱 Aprendendo mais sobre **Programação** .
 
 ## Onde me encontrar
